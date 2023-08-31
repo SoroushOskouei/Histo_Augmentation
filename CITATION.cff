@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: If you use this software, cite it as below.
+title: Histo_Augmentation
+authors:
+  - name: Soroush Oskouei
+    orcid: https://orcid.org/0000-0003-1113-2634
+version: 1.0.0
+doi: [![DOI](https://zenodo.org/badge/685451325.svg)](https://zenodo.org/badge/latestdoi/685451325)
+repository-code: https://github.com/SoroushOskouei/Histo_Augmentation
+license: MIT
