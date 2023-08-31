@@ -1,6 +1,6 @@
 # Histo_Augmentation
 
-https://zenodo.org/badge/685451325.svg
+[![DOI](https://zenodo.org/badge/685451325.svg)](https://zenodo.org/badge/latestdoi/685451325)
 
 Augmentation for histology images.
 
